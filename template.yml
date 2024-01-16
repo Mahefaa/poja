@@ -1,8 +1,8 @@
-AWSTemplateFormatVersion: '2010-09-09'
+qsdsqdsqdsqdsqdAWSTemplateFormatVersion: '2010-09-09'
 Transform: AWS::Serverless-2016-10-31
 Description: <?app-name> - Computation and API
 
-Globals:
+qslkdjlsqjdlksqdksqjdGlobals:
   Function:
     CodeUri: .
     Runtime: java17
